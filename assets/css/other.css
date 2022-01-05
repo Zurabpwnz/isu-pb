@@ -1,0 +1,67 @@
+.kama_breadcrumbs .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1630px;
+    margin: 0 auto;
+    padding: 20px 0 10px;
+
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: #000;
+}
+
+.kama_breadcrumbs .container span[itemprop="itemListElement"] a span {
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.kb_sep {
+    margin: 0 15px;
+}
+
+.kb_title {
+    font-size: 12px;
+    line-height: 15px;
+    color: #000;
+    text-align: center;
+}
+
+
+
+.wpcf7 form.sent .wpcf7-response-output,
+.wpcf7 form.failed .wpcf7-response-output,
+.wpcf7 form.aborted .wpcf7-response-output,
+.wpcf7 form.spam .wpcf7-response-output,
+.wpcf7 form.invalid .wpcf7-response-output,
+.wpcf7 form.unaccepted .wpcf7-response-output {
+    display: none !important;
+}
+
+div.wpcf7 .ajax-loader {
+    display: none !important;
+}
+
+.d-none {
+    display: none;
+}
+
+.news-item__title {
+    display: block;
+}
+
+
+.lwptoc {margin: 30px 0; width: max-content; max-width: 380px;}
+.lwptoc_i {padding: 30px 3px 30px 3px !important;}
+.article__content--stati .lwptoc .lwptoc_item:before {width: 30px; height: 15px; background-position: left; padding-right: 30px; margin-right: 5px;}
+.article__content-readmore {overflow: hidden !important; margin: 15px -30px;}
+
+
+.about-text--full-width {
+    width: 100%;
+    padding-right: 0;
+}

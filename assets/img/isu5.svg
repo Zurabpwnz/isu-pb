@@ -1,0 +1,26 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M79.6875 39.0625C72.7953 39.0625 67.1875 33.4547 67.1875 26.5625C67.1875 19.6703 72.7953 14.0625 79.6875 14.0625C86.5797 14.0625 92.1875 19.6703 92.1875 26.5625C92.1875 33.4547 86.5797 39.0625 79.6875 39.0625Z" fill="#FEB104"/>
+<rect x="22" y="61" width="12" height="36" rx="6" stroke="black" stroke-width="2"/>
+<path d="M18 16.9927C8.60419 20.9109 2 30.1842 2 41C2 55.3594 13.6406 67 28 67C42.3594 67 54 55.3594 54 41C54 30.1842 47.3958 20.9109 38 16.9927V24.8415C43.4022 28.1918 47 34.1758 47 41C47 51.4934 38.4934 60 28 60C17.5066 60 9 51.4934 9 41C9 34.1758 12.5978 28.1918 18 24.8415V16.9927Z" fill="#FEB104"/>
+<path d="M18 24.8414C12.5978 28.1918 9 34.1758 9 41C9 51.4934 17.5066 60 28 60C38.4934 60 47 51.4934 47 41C47 34.1758 43.4022 28.1918 38 24.8414" stroke="black" stroke-width="2"/>
+<rect x="18" y="2" width="20" height="34" rx="4" stroke="black" stroke-width="2"/>
+<path d="M79 47H80V73H79V47Z" fill="#FF7956" stroke="#FEB104" stroke-width="8"/>
+<path d="M64 59H65V73H64V59Z" fill="#FF7956" stroke="#FEB104" stroke-width="8"/>
+<path d="M49 69H50V73H49V69Z" fill="#00D7DF" stroke="#FEB104" stroke-width="8"/>
+<path d="M38.4307 9H93C95.2091 9 97 10.7909 97 13V93C97 95.2091 95.2091 97 93 97H29" stroke="black" stroke-width="2"/>
+<path d="M32.5 7H23" stroke="black" stroke-width="2"/>
+<path d="M32.5 15H23" stroke="black" stroke-width="2"/>
+<path d="M32.5 23H23" stroke="black" stroke-width="2"/>
+<path d="M32.5 11H23" stroke="#FEB104" stroke-width="2"/>
+<path d="M32.5 19H23" stroke="#FEB104" stroke-width="2"/>
+<path d="M32.5 27H23" stroke="#FEB104" stroke-width="2"/>
+<path d="M32.5 31H23" stroke="black" stroke-width="2"/>
+<path d="M75 26C75.4 26.4 79 30 79 30L85.5 23" stroke="black" stroke-width="2"/>
+<path d="M73 35L64 45.5L51.5 43.5" stroke="black" stroke-width="2"/>
+<path d="M41 78H88.0001" stroke="black" stroke-width="2"/>
+<path d="M14 44L17 44M20 44H23M26 44H29M32 44H35M38 44H41" stroke="black" stroke-width="2"/>
+<rect x="42" y="84" width="11" height="7" stroke="black" stroke-width="2"/>
+<rect x="76" y="84" width="11" height="7" stroke="black" stroke-width="2"/>
+<rect x="59" y="84" width="11" height="7" stroke="black" stroke-width="2"/>
+<path d="M63.8125 51.0625C60.5035 51.0625 57.8125 48.3715 57.8125 45.0625C57.8125 41.7535 60.5035 39.0625 63.8125 39.0625C67.1215 39.0625 69.8125 41.7535 69.8125 45.0625C69.8125 48.3715 67.1215 51.0625 63.8125 51.0625Z" fill="#FEB104"/>
+</svg>
